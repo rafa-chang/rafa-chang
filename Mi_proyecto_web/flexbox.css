@@ -1,0 +1,19 @@
+body {
+    font-size: 20px;
+}
+div.container img {
+    width: 250px;
+    height: 250px;
+}
+.container {
+display:flex;
+flex-wrap: wrap;
+flex-direction:column;
+justify-content: space-around;
+}
+.left-panel {
+    background-color: darkgray;
+    color:white;
+    width: 40ex;
+    border-radius: 6px;
+}
